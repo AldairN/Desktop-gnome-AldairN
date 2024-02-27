@@ -1,5 +1,5 @@
 # Desktop-gnome-AldairN
-###Este repositorio es una guia para crear el escritorio mostrado
+### Este repositorio es una guia para crear el escritorio mostrado
 ![Captura desde 2024-02-24 16-10-31](https://github.com/AldairN/Desktop-gnome-AldairN/assets/157073386/58dd4b78-deed-4209-983d-13bedc9239b3)
 ## Extensiones
 - [Aylur's widgets](https://extensions.gnome.org/extension/5338/aylurs-widgets/)
