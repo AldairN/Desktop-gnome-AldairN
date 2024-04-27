@@ -31,4 +31,5 @@ En cuanto a la terminal, use kitty con oh-my-zsh, los programas mostrados son:
 - cmatrix
 - neofetch
 - ranger(visualizar archivos)
+- lolcat (poner colores en cualquier comando)
 - htop
