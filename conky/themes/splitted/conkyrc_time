@@ -1,0 +1,53 @@
+# Conky settings #
+background no
+update_interval 30
+double_buffer yes
+no_buffers yes
+
+# Window specifications #
+own_window yes
+own_window_type normal
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+own_window_title 
+own_window_colour 000000
+own_window_argb_visual yes
+own_window_argb_value 0
+
+minimum_size 0 0
+
+# Alignment #
+alignment top_left
+gap_x 30
+gap_y 720
+
+border_inner_margin 15
+border_outer_margin 0
+
+# Graphics settings #
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders no
+
+# Text settings #
+use_xft yes
+xftalpha 0
+xftfont JosefinSans-Regular:size=15
+
+# Color scheme #
+default_color ffffff
+
+color1 e03f3f
+color2 9933CC
+color3 669900
+color4 FF8800
+color5 CC0000
+color6 AAAAAA
+color7 DDDDDD
+
+own_window_transparent yes
+TEXT
+${voffset -8}${offset 46}${font JosefinSans-Regular:pixelsize=80}${time %I:%M}${font JosefinSans-Regular:pixelsize=14}${time %P}$font
+
+${alignc}${time %A} $font${color1}${time %d}$color ${time  %B} ${time %Y}$font
+${voffset -48}
