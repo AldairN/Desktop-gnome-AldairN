@@ -1,6 +1,9 @@
 # Desktop-gnome-AldairN
 ### Este repositorio es una guia para crear el escritorio mostrado
-![Captura desde 2024-04-26 22-50-35](https://github.com/AldairN/Desktop-gnome-AldairN/assets/157073386/0a71fade-ea9d-4a3f-aead-5be045a00db8)
+
+![Captura desde 2024-08-20 21-50-57](https://github.com/user-attachments/assets/c26268f3-22f4-4d9c-a590-d46095e353dc)
+![Captura desde 2024-08-26 19-35-05](https://github.com/user-attachments/assets/d6a02f5d-9bb6-4281-b09b-5ed143670f3f)
+![Captura desde 2024-08-20 21-52-06](https://github.com/user-attachments/assets/b7711be6-a271-492d-9e3f-a0a93a6f4517)
 ![Captura desde 2024-04-24 01-00-19](https://github.com/AldairN/Desktop-gnome-AldairN/assets/157073386/30663621-3bb3-4250-b44d-7306ae621979)
 ![Captura desde 2024-04-26 22-52-39](https://github.com/AldairN/Desktop-gnome-AldairN/assets/157073386/93128c31-bbc0-4fcb-97e6-24d7d80d2e06)
 ## Extensiones
